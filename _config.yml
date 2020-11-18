@@ -85,7 +85,7 @@ cover_image                               :                     # Replace with a
 cover_overlay_color                       : "#FB620C"
 cover_overlay_transparency                : 1
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
